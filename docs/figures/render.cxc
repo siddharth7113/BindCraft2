@@ -1,0 +1,38 @@
+open analysis/protenix/out/linear/rbp4lin_r09_l19/seed_202/predictions/rbp4lin_r09_l19_sample_0.cif
+open analysis/protenix/out/linear/rbp4lin_r06_l24/seed_505/predictions/rbp4lin_r06_l24_sample_0.cif
+open analysis/protenix/out/linear/rbp4lin_r10_l21/seed_101/predictions/rbp4lin_r10_l21_sample_0.cif
+open analysis/protenix/out/cyclic/rbp4cyc_r08_l14/seed_404/predictions/rbp4cyc_r08_l14_sample_0.cif
+matchmaker #2/A to #1/A
+matchmaker #3/A to #1/A
+matchmaker #4/A to #1/A
+hide atoms
+show cartoon
+color /A #dcdcd4
+color /A:35,62,64,67,93,95,96,98,99 #e08214
+color /B #2166ac
+show /B atoms
+style /B stick
+size stickRadius 0.16
+hide H
+lighting soft
+graphics silhouettes true width 1.5
+set bgColor white
+hide #2,3,4 models
+view
+turn y 90
+zoom 0.72
+save docs/figures/fig2_r09.png width 900 height 700 supersample 3
+hide #1/B cartoon
+hide #1/B atoms
+save docs/figures/fig1_epitope.png width 900 height 700 supersample 3
+show #1/B cartoon
+show #1/B atoms
+hide #1 models
+show #2 models
+save docs/figures/fig3_r06.png width 900 height 700 supersample 3
+hide #2 models
+show #3 models
+save docs/figures/fig4_r10.png width 900 height 700 supersample 3
+hide #3 models
+show #4 models
+save docs/figures/fig5_cyc08.png width 900 height 700 supersample 3

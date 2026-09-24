@@ -49,7 +49,8 @@
 | **Best candidate (linear)** | `rbp4lin_r09_l19` `MPEVVKMRSPEGKWEEHTF` — jaccard **1.00 in 3 of 5 seeds**, mean 0.90, ipTM 0.787 ± 0.021. Runner-up `rbp4lin_r06_l24`, ipTM 0.827 ± 0.014 / jaccard 0.80 ± 0.07 |
 | **Best candidate (cyclic)** | `rbp4cyc_r08_l14` `TFHRPGQTMVLDGL` — ipTM 0.875 ± 0.036, jaccard 0.72 ± 0.04 |
 | ~~Best design (cyclic) = rank 3~~ | **SUPERSEDED (Session 8)** — `rbp4cyc_r03_l17` binds off-epitope in 4 of 5 seeds (jaccard 0.14 ± 0.31). Its BC2 i_pTM of 0.79 was the highest in the set. |
-| Consensus shortlist | `analysis/protenix/agreement.csv` — **9 of 20** pass stability gates; per-seed detail in `agreement_per_seed.csv` |
+| Consensus shortlist | `analysis/protenix/agreement.csv` — **10 of 20** pass the corrected one-sided gates; per-seed detail in `agreement_per_seed.csv` |
+| **Report** | `docs/RBP4_binder_report.docx` (6 pp, figures in `docs/figures/`, regenerate with `docs/figures/render.cxc`) |
 | Ring closure | **Confirmed across seeds** — median N-to-C 1.35 Å over 10 cyclics (1.30–1.41 Å) |
 | MD (GROMACS 2026.1) | **Available, not started** — `source /usr/local/gromacs/bin/GMXRC` |
 
@@ -739,6 +740,7 @@ ProteinMPNN weights ship inside the package (`bindcraft/weights/proteinmpnn/`); 
 | `cache/`, `tmp/`, `results/`, `.venv/` | generated (ignored) |
 | `env.sh`, `env-protenix.sh`, `submit_rbp4.slurm`, `progress.sh` | site config (**tracked**) |
 | `run_protenix.sh`, `run_protenix_seeds.sh` | Protenix validation and reseeding (**tracked**) |
+| `docs/RBP4_binder_report.docx`, `docs/figures/` | candidate report + ChimeraX figures and the `.cxc` that makes them (**tracked**) |
 | `.gitignore`, `LOGBOOK.md` | repo hygiene and this record (**tracked**) |
 
 > **Path gotcha:** `target_path` is resolved relative to the **campaign JSON's own directory**
