@@ -1,0 +1,542 @@
+[
+  {
+    "name": "rbp4cyc_r01_l15",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MIHRDTGEVVVLEVT",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r01_l15/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r01_l15/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 15,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r02_l17",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IEEVNMRMRHPDGTEMV",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r02_l17/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r02_l17/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 17,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r03_l17",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MHMRRPDGSEFTLEPWN",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r03_l17/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r03_l17/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 17,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r04_l15",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGPTFFFEGYEFRKP",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r04_l15/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r04_l15/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 15,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r05_l19",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GVPFHKNGDKNDPNTRIFD",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r05_l19/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r05_l19/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 19,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r06_l16",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LHGPNGEVKTHPSGVK",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r06_l16/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r06_l16/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 16,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r07_l16",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "RHPDKTVTLPEMNVTM",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r07_l16/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r07_l16/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 16,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r08_l14",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TFHRPGQTMVLDGL",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r08_l14/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r08_l14/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 14,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r09_l20",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VGGPDMPAEVKEALEALGYK",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r09_l20/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r09_l20/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 20,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r10_l20",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DPPITMHKRGGEDQVFQMPG",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r10_l20/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4cyc_r10_l20/non_pairing.a3m"
+        }
+      }
+    ],
+    "covalent_bonds": [
+      {
+        "entity1": "2",
+        "copy1": 1,
+        "position1": 1,
+        "atom1": "N",
+        "entity2": "2",
+        "copy2": 1,
+        "position2": 20,
+        "atom2": "C"
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r01_l25",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "APVPKMPEEIKKEAEKWGMKMTYRP",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r01_l25/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r01_l25/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r02_l25",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MKPIKMTNGDEVMTAEEYEKMLKEL",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r02_l25/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r02_l25/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r03_l21",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SKTKMPEEMKEEMDKHGIKYT",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r03_l21/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r03_l21/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r04_l21",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MIVPAKNDKGEEVPVHMRKRE",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r04_l21/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r04_l21/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r06_l24",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EKPKVKLTPGMTMEEFKEEYEKKL",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r06_l24/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r06_l24/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r07_l20",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EEQTYELRHPTKTHKVVVKV",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r07_l20/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r07_l20/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r08_l24",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EWKVWSREEVTEDMKKHGMPVPAP",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r08_l24/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r08_l24/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r09_l19",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MPEVVKMRSPEGKWEEHTF",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r09_l19/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r09_l19/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r10_l21",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LTDEQIVEEFEKHNMKVVHRE",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r10_l21/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r10_l21/non_pairing.a3m"
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4lin_r11_l23",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/target/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "RRYNLSEMTPEEVKKLEEEMLAE",
+          "count": 1,
+          "pairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r11_l23/pairing.a3m",
+          "unpairedMsaPath": "/home/siddharth/work/BindCraft2/analysis/protenix/msa_cache/binders/rbp4lin_r11_l23/non_pairing.a3m"
+        }
+      }
+    ]
+  }
+]

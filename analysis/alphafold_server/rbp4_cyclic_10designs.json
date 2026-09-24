@@ -1,0 +1,182 @@
+[
+  {
+    "name": "rbp4cyc_r01_l15",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MIHRDTGEVVVLEVT",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r02_l17",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "IEEVNMRMRHPDGTEMV",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r03_l17",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MHMRRPDGSEFTLEPWN",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r04_l15",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GGPTFFFEGYEFRKP",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r05_l19",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GVPFHKNGDKNDPNTRIFD",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r06_l16",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "LHGPNGEVKTHPSGVK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r07_l16",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "RHPDKTVTLPEMNVTM",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r08_l14",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "TFHRPGQTMVLDGL",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r09_l20",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "VGGPDMPAEVKEALEALGYK",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "rbp4cyc_r10_l20",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAEFSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQYRLIVHNGYC",
+          "count": 1
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DPPITMHKRGGEDQVFQMPG",
+          "count": 1
+        }
+      }
+    ]
+  }
+]

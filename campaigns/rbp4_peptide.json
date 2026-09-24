@@ -1,0 +1,17 @@
+{
+  "targets": [
+    {
+      "name": "RBP4",
+      "target_path": "../targets/RBP4.pdb",
+      "chains": "A",
+      "hotspots": "35,62,64,67,93,95,96,98,99"
+    }
+  ],
+  "modality": "peptide",
+  "binder_lengths": [12, 25],
+  "number_of_final_designs": 10,
+  "max_trajectories": 1200,
+  "desperation_trajectories": 250,
+  "min_iptm_final": 0.6,
+  "project_folder": "results/rbp4_peptide"
+}
